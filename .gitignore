@@ -25,6 +25,7 @@ wheels/
 *.egg
 MANIFEST
 
+models/
 Data/
 
 # PyInstaller
